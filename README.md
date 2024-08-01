@@ -1,4 +1,4 @@
-## solta a carta
+## solta a carta tigrinho
 
 <!--
 **tigrinhodashoppe/tigrinhodashoppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
